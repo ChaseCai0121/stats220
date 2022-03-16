@@ -1,2 +1,2 @@
-# stats220
-For 2022 S1 STATS 220
+# UoA 2022 S1 stats220 
+
